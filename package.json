@@ -1,7 +1,7 @@
 {
   "name": "@connext/nxtp",
   "version": "0.0.104",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
     "@jtbennett/ts-project-scripts": "^1.0.0-rc.4",
